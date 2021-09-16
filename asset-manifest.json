@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "https://olaoyevic.github.io/csb-bpyw1/static/css/main.499f002e.chunk.css",
+    "main.js": "https://olaoyevic.github.io/csb-bpyw1/static/js/main.1299690c.chunk.js",
+    "main.js.map": "https://olaoyevic.github.io/csb-bpyw1/static/js/main.1299690c.chunk.js.map",
+    "runtime-main.js": "https://olaoyevic.github.io/csb-bpyw1/static/js/runtime-main.89fe2b25.js",
+    "runtime-main.js.map": "https://olaoyevic.github.io/csb-bpyw1/static/js/runtime-main.89fe2b25.js.map",
+    "static/js/2.98943b5b.chunk.js": "https://olaoyevic.github.io/csb-bpyw1/static/js/2.98943b5b.chunk.js",
+    "static/js/2.98943b5b.chunk.js.map": "https://olaoyevic.github.io/csb-bpyw1/static/js/2.98943b5b.chunk.js.map",
+    "static/js/3.6bb6e3a7.chunk.js": "https://olaoyevic.github.io/csb-bpyw1/static/js/3.6bb6e3a7.chunk.js",
+    "static/js/3.6bb6e3a7.chunk.js.map": "https://olaoyevic.github.io/csb-bpyw1/static/js/3.6bb6e3a7.chunk.js.map",
+    "index.html": "https://olaoyevic.github.io/csb-bpyw1/index.html",
+    "static/css/main.499f002e.chunk.css.map": "https://olaoyevic.github.io/csb-bpyw1/static/css/main.499f002e.chunk.css.map",
+    "static/js/2.98943b5b.chunk.js.LICENSE.txt": "https://olaoyevic.github.io/csb-bpyw1/static/js/2.98943b5b.chunk.js.LICENSE.txt",
+    "static/media/banner.00ea3384.png": "https://olaoyevic.github.io/csb-bpyw1/static/media/banner.00ea3384.png",
+    "static/media/coldstoneBackg.93f94726.jpg": "https://olaoyevic.github.io/csb-bpyw1/static/media/coldstoneBackg.93f94726.jpg",
+    "static/media/coldstoneLogo.2c41952a.png": "https://olaoyevic.github.io/csb-bpyw1/static/media/coldstoneLogo.2c41952a.png",
+    "static/media/errorImg.3b3d694e.png": "https://olaoyevic.github.io/csb-bpyw1/static/media/errorImg.3b3d694e.png",
+    "static/media/process1.3c3596d8.png": "https://olaoyevic.github.io/csb-bpyw1/static/media/process1.3c3596d8.png",
+    "static/media/process2.bd9d36be.png": "https://olaoyevic.github.io/csb-bpyw1/static/media/process2.bd9d36be.png",
+    "static/media/process3.4006f11e.png": "https://olaoyevic.github.io/csb-bpyw1/static/media/process3.4006f11e.png",
+    "static/media/product-login.c1923e93.png": "https://olaoyevic.github.io/csb-bpyw1/static/media/product-login.c1923e93.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89fe2b25.js",
+    "static/js/2.98943b5b.chunk.js",
+    "static/css/main.499f002e.chunk.css",
+    "static/js/main.1299690c.chunk.js"
+  ]
+}
